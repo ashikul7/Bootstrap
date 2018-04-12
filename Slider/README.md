@@ -1,0 +1,1 @@
+Full responsive bootstrap slider. Bootstrap version is 4.0
